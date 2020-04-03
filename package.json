@@ -1,0 +1,17 @@
+{
+  "name": "brain-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "count": "node count.js",
+    "start": "live-server"
+  },
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
