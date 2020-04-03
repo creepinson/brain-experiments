@@ -37,4 +37,5 @@ $('#run').click(() => {
     net
   )
   console.log(`Raw result: ${result}`)
+  alert(result)
 })

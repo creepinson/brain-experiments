@@ -14,6 +14,9 @@ in your terminal to run the live-server for any of the html experiments (such as
 
 For the brightness example, you can enter three color values that range from 0 to 1.0 (red, green, and blue).
 
+![RGB Experiment](assets/rgb.png)
+
+
 ### Counting
 
 Run
